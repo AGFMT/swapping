@@ -5,6 +5,7 @@ int main(void)
     int array[100];
     int limit,i;
     int sum=0;
+    printf("HI");
     printf("\nENTER THE LIMIT OF THE ARRAY");
     scanf("%d",&limit);
     printf("\nEnter the values of the array");
